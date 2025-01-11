@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Chat en Vivo</title>
+</head>
+<body>
+
+<div id="chat-container">
+  <!-- Aquí se mostrará el chat -->
+  <iframe src="URL_DEL_SERVICIO_DE_CHAT" width="300" height="400"></iframe>
+</div>
+
+<!-- Asegúrate de reemplazar 'URL_DEL_SERVICIO_DE_CHAT' con la URL proporcionada por tu proveedor de chat en vivo -->
+
+</body>
+</html>
